@@ -39,7 +39,7 @@
     background-image: url("malit.jpeg");
   
     /* Control the height of the image */
-    min-height: 38px;
+    min-height: 400px;
   
     /* Center and scale the image nicely */
     background-position: center;
