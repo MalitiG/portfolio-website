@@ -42,7 +42,7 @@
     min-height: 400px;
   
     /* Center and scale the image nicely */
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
